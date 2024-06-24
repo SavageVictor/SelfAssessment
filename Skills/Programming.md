@@ -39,7 +39,7 @@
   - side effects: 🖐️ used
   - closure: 🖐️ used
   - partial application: 👂 heard
-  - curry: 👂 heard
+  - curry: 🖐️ used
   - higher order: 🖐️ used
   - recursion: 🖐️ used
   - callback: 🖐️ used
@@ -52,7 +52,7 @@
   - monad: 
   - monoid: 
   - generator: 🖐️ used
-  - coroutine: 👂 heard
+  - coroutine: 🖐️ used
 
 - Data structures
   - array: 🙋 used
@@ -76,7 +76,7 @@
   - graph: 🖐️ used
   - iterator: 🖐️ used
   - mutable state: 🖐️ used
-  - immutable state: 👂 heard
+  - immutable state: 🖐️ used
   - serialization: 🖐️ used
   - string parsing: 🖐️ used
 
