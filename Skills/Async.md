@@ -5,8 +5,8 @@
   - try..catch: 🙋 used
   - Non-blocking: 🙋 used
   - Async I/O: 🖐️ used
-  - Thread pool: 👂 heard
-  - Pattern Reactor: 👂 heard
+  - Thread pool: 🖐️ used
+  - Pattern Reactor: 🖐️ used
   - CAS operations: 👂 heard
   - epoll: 👂 heard
   - kqueue: 
@@ -31,11 +31,11 @@
   - Future: 👂 heard
   - Deferred: 
   - Sync generator: 🖐️ used
-  - Async Generator: 👂 heard
-  - Async Iterator: 👂 heard
+  - Async Generator: 🖐️ used
+  - Async Iterator: 🖐️ used
   - Event: 🙋 used
-  - Coroutine: 
-  - Goroutine: 
+  - Coroutine: 🖐️ used
+  - Goroutine: 🖐️ used
   - Signal: 🖐️ used
   - Stream: 🙋 used
   - Chain of responsibility: 
@@ -55,10 +55,10 @@
   - Readable: 🖐️ used
   - Writable: 🖐️ used
   - Transform: 🖐️ used
-  - Async Pool: 
-  - Async Queue: 
+  - Async Pool: 🖐️ used
+  - Async Queue: 🖐️ used
   - Async Collector: 
-  - Semaphore: 
+  - Semaphore: 🖐️ used
   - Mutex: 🖐️ used
   - Spin Lock: 
 
@@ -72,7 +72,7 @@
   - Promise double resolve: 
   - child_process: 🖐️ used
   - worker_threads: 🖐️ used
-  - Atomics: 
+  - Atomics: 🖐️ used
   - High resolution clock: 
   - Callback hell: 🖐️ used
   - Promise hell: 🖐️ used
